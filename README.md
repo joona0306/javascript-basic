@@ -24,3 +24,5 @@
 ## DOM 이벤트
 
 - dom.html
+- event.html
+- event-bubbling.html
